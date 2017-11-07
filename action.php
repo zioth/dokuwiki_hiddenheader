@@ -2,7 +2,6 @@
 /**
  * hiddenheader Plugin for DokuWiki / action.php
  *
- * @license GPL - http://www.gnu.org/copyleft/gpl.html
  * @author  Eli Fenton
  */
  
