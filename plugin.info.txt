@@ -1,7 +1,7 @@
 base    hiddenheader
 author  Eli Fenton
 email   undisclosed@undisclosed.org
-date    2018-12-31
+date    2024-02-10
 name    Hidden Header Plugin
 desc    Name a page or section without displaying the name on-page.
 url     https://www.dokuwiki.org/plugin:hiddenheader
