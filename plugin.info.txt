@@ -1,6 +1,6 @@
 base    hiddenheader
 author  Eli Fenton
-email
+email   undisclosed@undisclosed.org
 date    2018-12-31
 name    Hidden Header Plugin
 desc    Name a page or section without displaying the name on-page.
